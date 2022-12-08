@@ -1,5 +1,9 @@
 ## Full Stack Data - Churn Analysis Ecommerce Customer
 
+The E-commerce customer churn rate is up to 80% compared with traditional business customer management (Wu & Meng, 2016)
+![image](https://user-images.githubusercontent.com/108534539/206361392-1515754a-df32-4095-ab11-4ecc6a643dbf.png)
+
+
 The purpose of this project is to analyze the purchasing behavior patterns of e-commerce visitors and to increase the conversion rate to purchase. The results show that page values, the number of visited pages, has the greatest impact on a visitor's purchase decision. The conversion rate to purchase increases up to 60% by applying an actionable recommendation from insights that boost the number of visited pages.
 
 **Tools**: Python, JupyterLab, Git
