@@ -1,12 +1,15 @@
 ## Full Stack Data - Churn Analysis Ecommerce Customer
 
-The E-commerce customer churn rate is up to 80% compared with traditional business customer management (Wu & Meng, 2016)
-![image](https://user-images.githubusercontent.com/108534539/206361392-1515754a-df32-4095-ab11-4ecc6a643dbf.png)
+**Problem Statement :**
+The E-commerce customer churn rate is up to 80% compared with traditional business customer management (Wu & Meng, 2016). From dataset customer churn is 17%.
 
+**Goals :**
+The purpose of this project is to predict customer churn, loss opportunity and provide recommendations to the business team so the company can implement a persona customer retention strategy and can monitoring thought dashboard interactive.
 
-The purpose of this project is to analyze the purchasing behavior patterns of e-commerce visitors and to increase the conversion rate to purchase. The results show that page values, the number of visited pages, has the greatest impact on a visitor's purchase decision. The conversion rate to purchase increases up to 60% by applying an actionable recommendation from insights that boost the number of visited pages.
+**Result :**
+The results show that tenure and complaint has the greatest impact on a churn rate. With applying an actionable recommendation from insights, company can avoid loss oppurtunity up to $900,000 and revenue lift up to $ 150,000.
 
-**Tools**: Python, JupyterLab, Git
+**Tools**: Python, JupyterLab, Git, PowerBI
 
 **Libraries**: Pandas, Numpy, Feature-engine, Scikit-learn, Imbalanced-learn, lifelines
 
@@ -26,7 +29,7 @@ The purpose of this project is to analyze the purchasing behavior patterns of e-
 * Make a business simulation from insights that calculate the increase in the conversion rate.
 
 **File Dictionaries**
-* [proof-of-concepts.ipynb](https://github.com/irfan-fadhlurrahman/online-shoppers-purchasing-intention/blob/main/proof-of-concepts.ipynb): this notebook contains all of project details, such as business understanding, exploratory data analysis & insights, data preprocessing and modeling.
+* [EDA_Churn_Analysis_Ecommerce_Customer_.ipynb](https://github.com/archie-cm/Churn-Analysis-Ecommerce-Customer/blob/main/EDA_Churn_Analysis_Ecommerce_Customer_.ipynb): this notebook contains all of project details, such as business understanding, exploratory data analysis & insights, data preprocessing and modeling.
 * [presentation-appendix.ipynb](https://github.com/irfan-fadhlurrahman/online-shoppers-purchasing-intention/blob/main/presentation-appendix.ipynb): this notebook contains all data visualizations for presentation slides and the details of business simulation, a calculation of increased conversion rate after applying an actionable recommendation.
 * [Final Project Presentation Slides.pdf](https://github.com/irfan-fadhlurrahman/online-shoppers-purchasing-intention/blob/main/Final%20Project%20Presentation%20Slides.pdf): summary of the project.
 * [requirements.txt](https://github.com/irfan-fadhlurrahman/online-shoppers-purchasing-intention/blob/main/requirements.txt): list of used libraries with its version.
