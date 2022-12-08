@@ -4,9 +4,9 @@ The purpose of this project is to analyze the purchasing behavior patterns of e-
 
 **Tools**: Python, JupyterLab, Git
 
-**Libraries**: Pandas, Numpy, Feature-engine, Scikit-learn, Imbalanced-learn
+**Libraries**: Pandas, Numpy, Feature-engine, Scikit-learn, Imbalanced-learn, lifelines
 
-**Dataset**: Online Shoppers Purchasing Intention, UCI Machine Learning, 2018 [[source]](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
+**Dataset**: Ecommerce Customer Churn Analysis and Prediction, [[source]](https://www.kaggle.com/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
 
 **Summary of the analysis**
 * This dataset has 12330 observations and 18 variables with 10 numerical variables, 7 categorical variables and one target variable.
