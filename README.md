@@ -20,7 +20,9 @@ The results show that tenure and complaint has the greatest impact on a churn ra
 * From the data visualization, it is obtained that the churn ratio has a correlation with tenure, complaints, cashback Amount, & preferred order cat.
 * The results of predicting churn are strongly influenced by the level of Tenure, Complaint, Number of Addresses, and cashback Amount.
 * The results of the Survival Analysis, the customer has the greatest survival chance in No Complain, Marital Status Married, Payment Mode Credit Card, Order Category Grocery.
+![image](https://user-images.githubusercontent.com/108534539/206370747-d154f74b-505d-4725-9974-2c3b094e8986.png)
 * RFM Segmentation results show priority customer treatment in the Loyal, New, Promising, and Lost Potential segments. 
+![image](https://user-images.githubusercontent.com/108534539/206370814-ec56637b-f46d-4522-9f38-5a6dca882b46.png)
 * Total Expected Loss of $ 910,687
 * Estimated Revenue Uplift
   *  Order category Grocery $42,448
@@ -28,7 +30,6 @@ The results show that tenure and complaint has the greatest impact on a churn ra
   *  Payment Debit Card $ 78,543
 
 ![image](https://user-images.githubusercontent.com/108534539/206370164-cb8e97d4-f39f-48d1-9a86-2d8e265f25a5.png)
-
 
 **What I have learned**
 * Framing the business problem. 
