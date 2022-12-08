@@ -17,11 +17,18 @@ The results show that tenure and complaint has the greatest impact on a churn ra
 
 **Summary of the analysis**
 * This dataset has 5630 observations and 20 variables with 15 numerical variables, 5 categorical variables and 2 target variable.
-* All numerical variables have a right-skewed distribution and contain a lot of outliers. 
-* Revenue is the target variable that labels a visitor's purchase decision either purchase (class True) or not purchase (class False). The current condition is only 15% of total visitors who make a purchase. 
-* From exploratory data analysis, visitors with low exit and bounce rates and high page values, tend to make a purchase.
-* Based on data characteristics, the selected algorithm to build a classification model is tree-based or ensemble. The classification model with the random forest algorithm is able to correctly predict 62% of visitors who make a purchase.
-* The result shows that page values, a number of visited pages, are the biggest impact on visitors' purchase decisions. The conversion rate to purchase increases up to 60% by applying an actionable recommendation from insights that boost page values of visitors.
+* From the data visualization, it is obtained that the churn ratio has a correlation with tenure, complaints, cashback Amount, & preferred order cat.
+* The results of predicting churn are strongly influenced by the level of Tenure, Complaint, Number of Addresses, and cashback Amount.
+* The results of the Survival Analysis, the customer has the greatest survival chance in No Complain, Marital Status Married, Payment Mode Credit Card, Order Category Grocery.
+* RFM Segmentation results show priority customer treatment in the Loyal, New, Promising, and Lost Potential segments. 
+* Total Expected Loss of $ 910,687
+* Estimated Revenue Uplift
+  *  Order category Grocery $42,448
+  *  Payment Credit Card $ 91,785 
+  *  Payment Debit Card $ 78,543
+
+![image](https://user-images.githubusercontent.com/108534539/206370164-cb8e97d4-f39f-48d1-9a86-2d8e265f25a5.png)
+
 
 **What I have learned**
 * Framing the business problem. 
