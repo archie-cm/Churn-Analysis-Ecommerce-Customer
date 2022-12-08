@@ -31,6 +31,9 @@ The results show that tenure and complaint has the greatest impact on a churn ra
 
 ![image](https://user-images.githubusercontent.com/108534539/206370164-cb8e97d4-f39f-48d1-9a86-2d8e265f25a5.png)
 
+![image](https://user-images.githubusercontent.com/108534539/206371381-5df36ef3-8bfc-40ed-8ac5-7ed4383b450e.png)
+
+
 **What I have learned**
 * Framing the business problem. 
 * Create a machine learning model and extract insight that generates churn & retention from it to make an actionable recommendation for the business team.
